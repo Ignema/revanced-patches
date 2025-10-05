@@ -486,6 +486,10 @@ public final class app/revanced/patches/nyx/misc/pro/UnlockProPatchKt {
 	public static final fun getUnlockProPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/oncf/misc/pairip/RemovePairipComponentsPatchKt {
+	public static final fun getRemovePairipComponentsPatch ()Lapp/revanced/patcher/patch/ResourcePatch;
+}
+
 public final class app/revanced/patches/openinghours/misc/fix/crash/FixCrashPatchKt {
 	public static final fun getFixCrashPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
